@@ -1,6 +1,6 @@
 # Yooo I'm Impulse 👋
 
-🔭 Currently Working On; Wish Logger ( JS Translation )
+🔭 Currently Working On; Wish Logger ( JS Translation ) <br>
 🎵 Fav track; https://open.spotify.com/embed/track/2vhyG6wMN64nlNakXJeKZ1
 
 🌩️ Fun Fact; I'm learning shit about life 👍
