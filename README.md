@@ -1,16 +1,7 @@
 # Yooo I'm Impulse 👋
 
 🔭 Currently Working On; Wish Logger ( JS Translation )
-🎵 Fav song; <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2vhyG6wMN64nlNakXJeKZ1?utm_source=generator&theme=0" width="100%" height="80" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</body>
-</html>
+🎵 Fav track; https://open.spotify.com/embed/track/2vhyG6wMN64nlNakXJeKZ1
 
 🌩️ Fun Fact; I'm learning shit about life 👍
 
