@@ -21,4 +21,4 @@
 
 
 ## Wish Logger Status
-[![Discord Bots](https://top.gg/api/widget/1308500301791105044.svg)(https://top.gg/bot/1308500301791105044)
+[![Discord Bots](https://top.gg/api/widget/1308500301791105044.svg)
