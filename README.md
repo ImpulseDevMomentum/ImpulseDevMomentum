@@ -18,7 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ImpulseDevMomentum&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-## Wish Logger Status
-![Discord Bots](https://top.gg/api/widget/1308500301791105044.svg)
