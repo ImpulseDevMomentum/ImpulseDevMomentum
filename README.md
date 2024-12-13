@@ -1,9 +1,9 @@
 # Yooo I'm Impulse 👋
 
-🔭 Currently Working On; Everybody sometime needs a break, right? <br>
+🔭 Currently Working On; Wizards MC <br>
 🎵 Fav track; https://open.spotify.com/embed/track/2vhyG6wMN64nlNakXJeKZ1
 
-🌩️ Fun Fact; I'm learning nothing from my previus mistakes 👍 <br>
+🌩️ Fun Fact; Javascript is gay<br>
 
 🆕 Something about my friend's new project; https://discord.com/invite/ek3bxT8T2X
 
