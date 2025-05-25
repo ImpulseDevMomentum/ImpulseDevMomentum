@@ -1,6 +1,6 @@
 # Yooo I'm Impulse 👋
 
-🔭 Currently Working On; Wizards MC <br>
+🔭 Currently Working On; Wish Logger <br>
 🎵 Fav track; https://open.spotify.com/embed/track/2vhyG6wMN64nlNakXJeKZ1
 
 🌩️ Fun Fact; Javascript is gay<br>
